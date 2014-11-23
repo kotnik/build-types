@@ -1,0 +1,8 @@
+name = Test profile.
+description = Set up test intallation.
+core = 7.x
+
+dependencies[] = block
+dependencies[] = menu
+
+files[] = test_profile.profile

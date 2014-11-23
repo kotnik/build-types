@@ -1,0 +1,4 @@
+name = Tm
+description = Provides trademark.
+package = Development
+core = 7.x
